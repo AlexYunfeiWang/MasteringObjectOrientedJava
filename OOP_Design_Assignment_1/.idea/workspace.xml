@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e423653-c5b7-4360-a9c8-8934e7936dc2" name="Default Changelist" comment="" />
+    <list default="true" id="1e423653-c5b7-4360-a9c8-8934e7936dc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552961285172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552966151694" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,7 +175,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1098" height="1938" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25636008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
